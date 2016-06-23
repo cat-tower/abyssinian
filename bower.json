@@ -1,0 +1,27 @@
+{
+  "name": "abyssinian",
+  "description": "React Starter Kit (ES6+, Babel, React.js, koa@2, Webpack, BrowerSync)",
+  "main": "index.js",
+  "authors": [
+    "Si-Hye Lee <shye0919@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ES6+",
+    "Babel",
+    "React.js",
+    "koa@2",
+    "Webback",
+    "BrowerSync"
+  ],
+  "homepage": "https://github.com/cat-tower/abyssinian",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
