@@ -1,0 +1,13 @@
+{
+  "presets": ["es2015-node5" , "stage-1", "react"],
+  "sourceMaps": ["both"],
+  "plugins": [
+    "transform-async-to-generator",
+    "syntax-async-functions"
+  ],
+  "env": {
+    "develoment": {
+      "preset": ["react-hmre"]
+    }
+  }
+}
